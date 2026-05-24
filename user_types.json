@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Admin",
+    "AccessLevel": "Full"
+  },
+  {
+    "Name": "User",
+    "AccessLevel": "Limited"
+  }
+]
